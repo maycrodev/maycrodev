@@ -1,287 +1,142 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MAY&fontSize=150&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Juan%20José%20Cordeiro%20·%20Systems%20Engineer%20·%20Bolivia&descAlignY=75&descSize=20&stroke=ff3333&strokeWidth=3"/>
-
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2000&pause=500&color=FF3333&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🤖+AI+%26+Automation+Developer;🌐+Full-Stack+Web+Systems+Engineer;🎮+Roblox+%2F+Lua+Game+Developer;🧠+Machine+Learning+%26+Medical+AI;🇧🇴+Building+from+Bolivia+to+the+World" alt="Typing SVG" /></a>
 
 <br/>
 
-![](https://img.shields.io/badge/▶_STATUS-OPEN%20FOR%20FREELANCE-ff3333?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=ff3333)
-![](https://img.shields.io/badge/📍_LOCATION-BOLIVIA-ffffff?style=for-the-badge&labelColor=0a0a0a)
-![](https://img.shields.io/badge/💵_RATE-USD%20%24150–%241200-ff3333?style=for-the-badge&labelColor=0a0a0a)
-![](https://img.shields.io/badge/⚡_RESPONSE-UNDER%202H-ffffff?style=for-the-badge&labelColor=0a0a0a)
+# MAY
+### Juan José Cordeiro · Systems Engineer · Bolivia
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=maycrodev&style=for-the-badge&color=ff3333&label=PROFILE+VIEWS&labelColor=0a0a0a)](https://github.com/maycrodev)
-[![GitHub followers](https://img.shields.io/github/followers/maycrodev?style=for-the-badge&color=ff3333&labelColor=0a0a0a&label=FOLLOWERS)](https://github.com/maycrodev?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/maycrodev?style=for-the-badge&color=ff3333&labelColor=0a0a0a&label=TOTAL+STARS)](https://github.com/maycrodev)
+![](https://img.shields.io/badge/OPEN%20FOR%20FREELANCE-000000?style=flat-square&labelColor=000000&color=ffffff)
+&nbsp;
+![](https://img.shields.io/badge/REMOTE-000000?style=flat-square&labelColor=000000&color=ffffff)
+&nbsp;
+![](https://img.shields.io/badge/USD-000000?style=flat-square&labelColor=000000&color=ffffff)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=maycrodev&style=flat-square&color=ffffff&label=VIEWS&labelColor=000000)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👾 `whoami`
-
-```python
-class MayDev:
-    name       = "Juan José Cordeiro"
-    alias      = "maycrodev · MAY"
-    location   = "Bolivia 🇧🇴 → Remote 🌐"
-    degree     = "Systems Engineering @ UCB"
-    year       = "Final Year → 2025"
-    
-    languages  = ["Python", "Lua", "JavaScript",
-                  "SQL", "HTML/CSS", "Bash"]
-    
-    frameworks = ["TensorFlow", "React", "Flask",
-                  "FastAPI", "Node.js", "OpenCV"]
-    
-    ai_tools   = ["OpenAI API", "Claude API",
-                  "scikit-learn", "Keras"]
-    
-    services   = ["AI Bots 🤖", "Web Systems 🌐",
-                  "Game Dev 🎮", "ML Models 🧠"]
-    
-    contact    = "cordeirojuanjose@gmail.com"
-    available  = True  # ← hire me
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 `git stats`
-
-<img src="https://github-readme-stats.vercel.app/api?username=maycrodev&show_icons=true&bg_color=0a0a0a&title_color=ff3333&icon_color=ff3333&text_color=ffffff&border_color=ff3333&border_radius=8&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maycrodev&background=0a0a0a&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=ff3333&border_radius=8" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-## 🛠️ FULL TECH ARSENAL
-
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff3333)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ff3333)
-![Lua](https://img.shields.io/badge/Lua-0a0a0a?style=for-the-badge&logo=lua&logoColor=ff3333)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=ff3333)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ff3333)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ff3333)
-![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=ff3333)
-
-### 🧩 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=ff3333)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ff3333)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=ff3333)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=ff3333)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=ff3333)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=ff3333)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=ff3333)
-![Three.js](https://img.shields.io/badge/Three.js-0a0a0a?style=for-the-badge&logo=threedotjs&logoColor=ff3333)
-
-### 🤖 AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0a0a0a?style=for-the-badge&logo=openai&logoColor=ff3333)
-![Telegram](https://img.shields.io/badge/Telegram_API-0a0a0a?style=for-the-badge&logo=telegram&logoColor=ff3333)
-![Roblox](https://img.shields.io/badge/Roblox_Studio-0a0a0a?style=for-the-badge&logo=roblox&logoColor=ff3333)
-![PayPal](https://img.shields.io/badge/PayPal_API-0a0a0a?style=for-the-badge&logo=paypal&logoColor=ff3333)
-![Google Colab](https://img.shields.io/badge/Google_Colab-0a0a0a?style=for-the-badge&logo=googlecolab&logoColor=ff3333)
-
-### 🗄️ Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=ff3333)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=ff3333)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=ff3333)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff3333)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff3333)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=ff3333)
-![Netlify](https://img.shields.io/badge/Netlify-0a0a0a?style=for-the-badge&logo=netlify&logoColor=ff3333)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-## 💼 SERVICES
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-**AI BOT DEVELOPMENT**
-
-Telegram & WhatsApp bots<br/>powered by GPT-4 / Claude.<br/>Payment integrations,<br/>subscription systems,<br/>24/7 automation.
-
-`Python` `OpenAI` `PayPal`
-
-**$150 – $400**
-
-</td>
-<td align="center" width="25%">
-
-### 💬
-**AI CHATBOTS**
-
-Intelligent customer service<br/>chatbots for websites & apps.<br/>FAQ automation, lead capture,<br/>multi-platform integration.
-
-`OpenAI` `Dialogflow` `Flask`
-
-**$200 – $500**
-
-</td>
-<td align="center" width="25%">
-
-### 🌐
-**WEB DEVELOPMENT**
-
-Modern, fast, responsive<br/>websites & full-stack apps.<br/>Custom design, SEO-ready,<br/>no generic templates.
-
-`React` `JS` `Three.js`
-
-**$200 – $600**
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️
-**BUSINESS SYSTEMS**
-
-Complete web systems<br/>from DB to UI. Dashboards,<br/>SaaS platforms, inventory,<br/>management tools.
-
-`Python` `React` `SQL`
-
-**$400 – $1200**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🏆 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=maycrodev&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION GRAPH
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maycrodev&bg_color=0a0a0a&color=ff3333&line=ff3333&point=ffffff&area=true&area_color=ff333330&hide_border=false&border_color=ff3333&radius=8)](https://github.com/maycrodev)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycrodev/maycrodev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycrodev/maycrodev/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maycrodev/maycrodev/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-## 🗺️ JOURNEY
+## About
+
+Final-year Systems Engineering student at Universidad Católica Boliviana.
+I build AI-powered bots, full-stack web systems, machine learning models, and Roblox games.
+Based in Bolivia — working remotely for clients worldwide, charging in USD.
 
 ```
-2020 ──► Systems Engineering @ UCB
-         Algorithms · Data Structures
-         Software Architecture
-
-2022 ──► Game Development · Roblox
-         Lua · Procedural Generation
-         Physics Systems · Monetization
-
-2023 ──► Machine Learning · Medical AI
-         CNN · 94%+ Accuracy
-         Hospital Prediction Systems
-
-2024 ──► Bots · Automation · Full-Stack
-         OpenAI API · Telegram · PayPal
-         Clients across Latin America
-
-2025 ──► FINAL YEAR · OPEN FOR HIRE
-         20+ Projects · Remote Ready
-         Bolivia → World 🌎
+cordeirojuanjose@gmail.com  ·  maycrodev.github.io/portfolio  ·  Available now
 ```
-
-</td>
-<td width="50%">
-
-## 📊 LANGUAGES
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycrodev&layout=donut&bg_color=0a0a0a&title_color=ff3333&text_color=ffffff&border_color=ff3333&border_radius=8&langs_count=8" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## What I Build
+
+```
+AI Bot Development          Telegram & WhatsApp bots with GPT integration
+                            Payment systems · Subscription automation
+
+Full-Stack Web Systems      Business apps · Admin dashboards · SaaS platforms
+                            From database design to production deployment
+
+Machine Learning            CNN models · Medical image classification
+                            Hospital readmission prediction · REST API deployment
+
+Game Development            Roblox / Lua · Procedural generation
+                            Physics systems · UI animation · Monetization
+```
+
+---
+
+## Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frameworks & Libraries**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maycrodev&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&border_color=30363d&count_private=true&rank_icon=github&hide_border=false"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycrodev&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&border_color=30363d&hide_border=false&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maycrodev&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=30363d"/>
+
+</div>
+
+---
+
+## Journey
+
+```
+2020    Systems Engineering · Universidad Católica Boliviana
+        Algorithms · Data Structures · Software Architecture
+
+2022    Game Development · Roblox Studio · Lua
+        Procedural Generation · Physics · Monetization
+
+2023    Machine Learning · Medical AI
+        CNN Models · 94%+ Accuracy · REST API Deployment
+
+2024    Bots · Automation · Full-Stack
+        OpenAI API · Telegram · PayPal · Latin America clients
+
+2025    Final Year · 20+ Projects · Open for Freelance
+```
 
 ---
 
 <div align="center">
 
-## 🌎 LET'S BUILD SOMETHING
-
-[![Email](https://img.shields.io/badge/✉_EMAIL_ME-ff3333?style=for-the-badge&labelColor=0a0a0a)](mailto:cordeirojuanjose@gmail.com)
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-ffffff?style=for-the-badge&labelColor=0a0a0a)](https://maycrodev.github.io/portfolio)
-[![Workana](https://img.shields.io/badge/↗_WORKANA-ff3333?style=for-the-badge&labelColor=0a0a0a)](https://workana.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-ffffff?style=for-the-badge&labelColor=0a0a0a)](https://linkedin.com/in/maycrodev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maycrodev.github.io/portfolio)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cordeirojuanjose@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maycrodev)
 
 <br/>
 
-> *"Building world-class software from Bolivia — one commit at a time."*
-> 
-> **— MAY · Juan José Cordeiro**
+`Bolivia · Remote · USD · Fast delivery`
 
 <br/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&stroke=ff3333&strokeWidth=2"/>
